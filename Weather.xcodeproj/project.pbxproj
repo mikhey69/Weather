@@ -7,10 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D619D371213C6F2F00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.31.01_iphonexspacegrey_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = D619D36D213C6F2D00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.31.01_iphonexspacegrey_portrait.png */; };
-		D619D372213C6F2F00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.46.03_iphonexspacegrey_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = D619D36E213C6F2D00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.46.03_iphonexspacegrey_portrait.png */; };
-		D619D373213C6F2F00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.41.06_iphonexspacegrey_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = D619D36F213C6F2E00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.41.06_iphonexspacegrey_portrait.png */; };
-		D619D374213C6F2F00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.43.11_iphonexspacegrey_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = D619D370213C6F2E00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.43.11_iphonexspacegrey_portrait.png */; };
+		D619D371213C6F2F00E2BCDF /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = D619D36D213C6F2D00E2BCDF /* 1.png */; };
+		D619D372213C6F2F00E2BCDF /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = D619D36E213C6F2D00E2BCDF /* 4.png */; };
+		D619D373213C6F2F00E2BCDF /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = D619D36F213C6F2E00E2BCDF /* 2.png */; };
+		D619D374213C6F2F00E2BCDF /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = D619D370213C6F2E00E2BCDF /* 3.png */; };
 		D628239120E78FC4009B1F82 /* Main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D628238A20E78FC0009B1F82 /* Main.swift */; };
 		D628239220E78FC4009B1F82 /* Coord.swift in Sources */ = {isa = PBXBuildFile; fileRef = D628238B20E78FC1009B1F82 /* Coord.swift */; };
 		D628239320E78FC4009B1F82 /* Wind.swift in Sources */ = {isa = PBXBuildFile; fileRef = D628238C20E78FC1009B1F82 /* Wind.swift */; };
@@ -32,10 +32,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D619D36D213C6F2D00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.31.01_iphonexspacegrey_portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone X - 2018-09-02 at 18.31.01_iphonexspacegrey_portrait.png"; sourceTree = "<group>"; };
-		D619D36E213C6F2D00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.46.03_iphonexspacegrey_portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone X - 2018-09-02 at 18.46.03_iphonexspacegrey_portrait.png"; sourceTree = "<group>"; };
-		D619D36F213C6F2E00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.41.06_iphonexspacegrey_portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone X - 2018-09-02 at 18.41.06_iphonexspacegrey_portrait.png"; sourceTree = "<group>"; };
-		D619D370213C6F2E00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.43.11_iphonexspacegrey_portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone X - 2018-09-02 at 18.43.11_iphonexspacegrey_portrait.png"; sourceTree = "<group>"; };
+		D619D36D213C6F2D00E2BCDF /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		D619D36E213C6F2D00E2BCDF /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		D619D36F213C6F2E00E2BCDF /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		D619D370213C6F2E00E2BCDF /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
 		D628238A20E78FC0009B1F82 /* Main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Main.swift; sourceTree = "<group>"; };
 		D628238B20E78FC1009B1F82 /* Coord.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Coord.swift; sourceTree = "<group>"; };
 		D628238C20E78FC1009B1F82 /* Wind.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Wind.swift; sourceTree = "<group>"; };
@@ -72,10 +72,10 @@
 		D619D36C213C36AE00E2BCDF /* photo */ = {
 			isa = PBXGroup;
 			children = (
-				D619D36D213C6F2D00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.31.01_iphonexspacegrey_portrait.png */,
-				D619D36F213C6F2E00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.41.06_iphonexspacegrey_portrait.png */,
-				D619D370213C6F2E00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.43.11_iphonexspacegrey_portrait.png */,
-				D619D36E213C6F2D00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.46.03_iphonexspacegrey_portrait.png */,
+				D619D36D213C6F2D00E2BCDF /* 1.png */,
+				D619D36F213C6F2E00E2BCDF /* 2.png */,
+				D619D370213C6F2E00E2BCDF /* 3.png */,
+				D619D36E213C6F2D00E2BCDF /* 4.png */,
 			);
 			path = photo;
 			sourceTree = "<group>";
@@ -198,13 +198,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				D6B052A420E4D94100CA8076 /* cities.json in Resources */,
-				D619D374213C6F2F00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.43.11_iphonexspacegrey_portrait.png in Resources */,
-				D619D373213C6F2F00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.41.06_iphonexspacegrey_portrait.png in Resources */,
-				D619D371213C6F2F00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.31.01_iphonexspacegrey_portrait.png in Resources */,
+				D619D374213C6F2F00E2BCDF /* 3.png in Resources */,
+				D619D373213C6F2F00E2BCDF /* 2.png in Resources */,
+				D619D371213C6F2F00E2BCDF /* 1.png in Resources */,
 				D6B052A920E4DEA300CA8076 /* Main.storyboard in Resources */,
 				D6B0529720E4D42400CA8076 /* LaunchScreen.storyboard in Resources */,
 				D628239A20E7A0EA009B1F82 /* Assets.xcassets in Resources */,
-				D619D372213C6F2F00E2BCDF /* Simulator Screen Shot - iPhone X - 2018-09-02 at 18.46.03_iphonexspacegrey_portrait.png in Resources */,
+				D619D372213C6F2F00E2BCDF /* 4.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
