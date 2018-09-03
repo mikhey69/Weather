@@ -1,5 +1,7 @@
 # Weather
 
+Shows the weather in your city
+
 ![Alt text](Weather/photo/1.png) 
 ![Alt text](Weather/photo/2.png)
 ![Alt text](Weather/photo/3.png)
